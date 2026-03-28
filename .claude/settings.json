@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python calculate_moment.py)",
+      "Bash(python CFDST_parameter_regression.py)"
+    ]
+  }
+}

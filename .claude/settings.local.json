@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python calculate_ke_batch.py)",
+      "Bash(python -c \":*)",
+      "Bash(vssadmin list:*)",
+      "Bash(python calculate_ke_final_first_try.py)"
+    ]
+  }
+}
