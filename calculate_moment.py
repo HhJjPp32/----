@@ -225,7 +225,7 @@ if __name__ == '__main__':
     print("示例 2：批量处理 CSV 文件")
     print("=" * 60)
 
-    csv_path = r"D:\AI_study\shujukuzhuanhua\caculate_moment.csv"
+    csv_path = r"D:\AI_study\shujukuzhuanhua\caculate_moment_4.17.csv"
     if os.path.exists(csv_path):
         process_csv(csv_path)
     else:

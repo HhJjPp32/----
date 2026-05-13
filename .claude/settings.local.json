@@ -4,7 +4,8 @@
       "Bash(python calculate_ke_batch.py)",
       "Bash(python -c \":*)",
       "Bash(vssadmin list:*)",
-      "Bash(python calculate_ke_final_first_try.py)"
+      "Bash(python calculate_ke_final_first_try.py)",
+      "Bash(python CFDST_ke_Final.py)"
     ]
   }
 }
